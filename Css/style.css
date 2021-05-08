@@ -6,13 +6,13 @@
 }
 
 body {
-    background-color: white;
+    background-color: silver;
 }
 
 .jumbotron {
-    color: white;
+    color: slategrey;
     background-color:turquoise;
-    height: 25px;
+    height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,5 +25,31 @@ body {
 
 .show {
     display: block;
+}
+
+button{
+    background-color:white;
+    color: black;
+    height: 30px;
+    width: 30px;
+}
+
+input{
+    width: 100px;
+    height: 25px;
+    
+}
+
+h5{
+    color: black;
+    background-color: slategrey;
+    font-size: 45px;
+}
+
+h6{
+   background-color: slategrey;
+   color: black;
+   font-size: 40px;
+
 }
 
